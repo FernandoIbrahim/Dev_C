@@ -1,5 +1,5 @@
 # Dev_C
-Welcome to my GitHub repository, here i post my evolution on Algorithms and Data Structure and developing on C.
+Welcome to my GitHub repository, here i post my evolution on Algorithms and Data Structure, developing on C.
 
 ## Party Hall Program Manager
 
