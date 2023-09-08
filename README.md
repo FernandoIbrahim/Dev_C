@@ -1,4 +1,4 @@
-# Dev_C
+# dev-c
 Welcome to my GitHub repository, here i post my evolution on Algorithms and Data Structure, developing on C.
 
 ## Party Hall Program Manager
