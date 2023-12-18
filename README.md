@@ -2,7 +2,7 @@
 
 # Party Hall Program Manager
 
-Projeto desenvolvido no primeiros semestre do curso de Engenharia de Software entre as disciplinas de Algoritmos e Desenvolvimento Sistemas  I e Fundamentos de Engenharia de Software
+Projeto desenvolvido no primeiro semestre do curso de Engenharia de Software entre as disciplinas de Algoritmos e Desenvolvimento Sistemas  I e Fundamentos de Engenharia de Software
 ## Descrição do Projeto
 
 O sistema de controle e gestão para lidar com desafios operacionais de um salao de Festas, como conflitos de horários para festas e a falta de armazenamento eficiente de dados de clientes e fornecedores. O projeto visa solucionar esses problemas, proporcionando uma gestão eficaz das festas realizadas no salão.
